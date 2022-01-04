@@ -1,4 +1,4 @@
-![logo](dnGREP.WPF/Images/Logo-small.gif)
+![logo](https://i.postimg.cc/zBbSZ7Yh/Grep-256.png)
 
 Users, see the **[main web site](http://dngrep.github.io/)** to download and install dnGrep. \
 This is the source code for dnGrep, a great Windows search utility that allows you to search across \
